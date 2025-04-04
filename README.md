@@ -4,7 +4,7 @@ Demonstrates how to use CloudCannon like a classic headless CMS. No builds are r
 
 Select `Headless` in your site settings.
 
-![Setting headless in your site settings](/images/site-settings.png)
+![Setting headless in your site settings](/public/images/site-settings.png)
 
 ### Commands
 
