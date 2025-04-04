@@ -2,6 +2,10 @@
 
 Demonstrates how to use CloudCannon like a classic headless CMS. No builds are ran on CloudCannon - we purely exists to update the GitHub repository. No visual editor previews are available on a site(s) like this, as a build is required for them to work.
 
+Select `Headless` in your site settings.
+
+![Setting headless in your site settings](/images/site-settings.png)
+
 ### Commands
 
 All commands are run from the root of the project, from a terminal:
